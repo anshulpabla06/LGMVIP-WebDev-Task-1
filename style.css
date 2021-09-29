@@ -421,7 +421,7 @@ i {
 	color: white;
 }
 
-@media (max-width: 768px) {
+@media screen(max-width: 768px) {
 	.navbar-nav.ml-auto {
 		background: rgba(0, 0, 0, 0.2);
 	}
